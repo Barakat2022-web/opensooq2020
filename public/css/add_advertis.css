@@ -1,0 +1,17 @@
+.address {
+    text-align: center;
+    font-size: 25px;
+}
+
+.btn-color {
+    background-color: #FF4500;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+    height: 172px;
+}
